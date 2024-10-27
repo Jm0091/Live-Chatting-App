@@ -6,6 +6,11 @@ This project demonstrates my expertise in building dynamic and interactive appli
 
 ---
 
+## 🎯 Screenshot:
+![Alt text](https://github.com/Jm0091/Live-Chatting-App/blob/main/ChatApp_ScreenShot.png)
+
+---
+
 ## 🎯 Objectives:
 - 🚀 **Utilized WebSockets**: Implemented WebSocket technology to enable real-time, bidirectional communication between clients and the server.
 - 📡 **Crafted Real-Time Applications**: Developed an application that supports live chat functionality, enhancing user engagement and interaction.
